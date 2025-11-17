@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Muhammad Junaid Akhtar, a penetration tester and cybersecurity enthusiast with hands‑on experience in web application security, vulnerability assessment, and digital forensics. I specialize in identifying, exploiting, and mitigating OWASP Top 10 vulnerabilities through realistic labs, red‑team simulations, and practical projects.<br><br>I’ve worked on designing CTF-style challenges, deploying honeypots, and performing structured penetration testing using industry-standard tools like Burp Suite, Nmap, Metasploit, and Nessus. I enjoy solving forensic cases, building security tools, and continuously improving my offensive security skills.
+Hi! I’m Muhammad Junaid Akhtar, a penetration tester and cybersecurity enthusiast with hands‑on experience in web application security, vulnerability assessment, and digital forensics. I specialize in identifying, exploiting, and mitigating OWASP Top 10 vulnerabilities through realistic labs, red‑team simulations, and practical projects.<br><br>I’ve worked on designing CTF-style challenges, deploying honeypots, and performing structured penetration testing using industry-standard tools like Burp Suite, Nmap, Metasploit, and Nessus. I enjoy solving forensic cases, Web Exploitation and continuously improving my offensive security skills.
 
 
 ## 🌐 Socials:
@@ -11,6 +11,21 @@ Hi! I’m Muhammad Junaid Akhtar, a penetration tester and cybersecurity enthusi
 ![](https://github-readme-stats.vercel.app/api?username=Junaid0917&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Junaid0917&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid0917&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🛠 Skills & Tools
+
+**Penetration Testing & Security:**  
+- Web Application Security  
+- Vulnerability Assessment  
+- Digital Forensics  
+- Network Protocols  
+- OWASP Top 10  
+
+**Tools:**  
+[![Nmap](https://img.shields.io/badge/Nmap-Advanced-green)]() 
+[![Burp Suite](https://img.shields.io/badge/BurpSuite-Very%20Good-orange)]() 
+[![Metasploit](https://img.shields.io/badge/Metasploit-Advanced-red)]() 
+[![Nessus](https://img.shields.io/badge/Nessus-Very%20Good-blue)]()  
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
