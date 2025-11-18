@@ -23,11 +23,9 @@ Hi! I’m Muhammad Junaid Akhtar, a penetration tester and cybersecurity enthusi
 [![Metasploit](https://img.shields.io/badge/Metasploit-Advanced-red)]() 
 [![Nessus](https://img.shields.io/badge/Nessus-Very%20Good-blue)]()  
 
-### 🔐 Random Cybersecurity Quote
-![Cyber Quote](https://api.popcat.xyz/quote?filter=cybersecurity)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Junaid0917&icon=10&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
