@@ -7,10 +7,6 @@ Hi! I’m Muhammad Junaid Akhtar, a penetration tester and cybersecurity enthusi
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Junaid0917&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Junaid0917&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid0917&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🛠 Skills & Tools
 
@@ -27,8 +23,9 @@ Hi! I’m Muhammad Junaid Akhtar, a penetration tester and cybersecurity enthusi
 [![Metasploit](https://img.shields.io/badge/Metasploit-Advanced-red)]() 
 [![Nessus](https://img.shields.io/badge/Nessus-Very%20Good-blue)]()  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🔐 Random Cybersecurity Quote
+![Cyber Quote](https://api.popcat.xyz/quote?filter=cybersecurity)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Junaid0917&icon=10&color=9)](https://visitcount.itsvg.in)
