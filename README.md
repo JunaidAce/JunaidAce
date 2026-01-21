@@ -5,7 +5,7 @@ Hi! I’m Muhammad Junaid Akhtar, a penetration tester and cybersecurity enthusi
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_.Starboy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-junaid-akhtar-48b3b7341) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@junaidxaktar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@STARRYPLIER) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidfps@gmail.com)
 
-[![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/JunaidAce.png" alt="Your Image Badge" />)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/JunaidAce.png)](https://tryhackme.com/p/JunaidAce)
 
 
 # 💻 Tech Stack:
