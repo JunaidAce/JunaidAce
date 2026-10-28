@@ -21,7 +21,6 @@
 
 <p align="center" style="display:flex; flex-wrap:wrap; gap:8px;">
   <img height="32" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Home_Lab-2C2C2C?style=for-the-badge&logo=proxmox&logoColor=white" />
