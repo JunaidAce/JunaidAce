@@ -37,12 +37,8 @@
   <img height="32" src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
   <img height="32" src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Password_Cracking-8B0000?style=for-the-badge&logo=hashnode&logoColor=white" />
-  
-
 </p>
 
-<img width="255" height="180" alt="giphy" src="assets/Monkey King GIF.gif" />
-<br><br>
 <!--[![](https://img.shields.io/badge/linkedin-0A66C2)](https://linkedin.com/in/muhammad-junaid-akhtar-48b3b7341)
 [![](https://img.shields.io/badge/medium-12100E)](https://medium.com/@junaidace)
 [![](https://img.shields.io/badge/youtube-FF0000)](https://youtube.com/@JunaidAce)
