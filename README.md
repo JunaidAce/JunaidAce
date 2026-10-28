@@ -10,14 +10,13 @@
     🎓 Cybersecurity Student • Junior Pentester
     🔐 Web Application Security • VAPT
     🧠 OWASP Top 10 • Recon • Web Exploitation
-    ⚔️ Burp Suite • Nmap • Metasploit • Nessus
     🏴 CTF Player • CTF Organizer 
-    🎮 Gaming • Linux  • Security Researcher
+    🎮 Gaming 
 </pre>
 
 <br>
 
-## 🛠 Skills & Tools
+## Skills & Tools
 
 <p align="center" style="display:flex; flex-wrap:wrap; gap:8px;">
   <img height="32" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
