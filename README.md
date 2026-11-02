@@ -3,7 +3,6 @@
 <img src="assets/psyduck.jpeg" width="25%" align="right" />
 <img src="assets/gengar.jpeg" width="25%" align="left" />
 
-
 <br><br>
 
 <pre>
@@ -31,3 +30,11 @@
   <img height="32" src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Password_Cracking-8B0000?style=for-the-badge&logo=hashnode&logoColor=white" />
 </p>
+
+## Notes
+
+- Security-focused learning and practical tooling
+- Web app security and network analysis
+- Defensive and offensive security exploration
+
+</div>
