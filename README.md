@@ -1,5 +1,9 @@
 
 <div align="center">
+
+<h1>Junaid Ace</h1>
+<p>Cybersecurity Student • Web App Security • Learning & Building</p>
+
 <img src="assets/psyduck.jpeg" width="25%" align="right" />
 <img src="assets/gengar.jpeg" width="25%" align="left" />
 

@@ -1,14 +1,20 @@
-# DMorse — Morse Code Encoder and Decoder
+<div align="center">
+
+# DMorse
+### Morse Code Encoder and Decoder
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![CLI](https://img.shields.io/badge/Type-Command%20Line-5E60CE)
+![Utility](https://img.shields.io/badge/Utility-Morse%20Tool-1F7A8C)
+
+</div>
 
 > Python-based Morse code tool for encoding, decoding, and quick signal translation.
 
 ## Features
 
 - Decode Morse code into readable text
-- Encode plain text to Morse code
+- Encode plain text into Morse code
 - Save decoded output to a file
 - Supports letters, numbers, and common punctuation
 
@@ -49,10 +55,10 @@ Encoded Morse: .... . .-.. .-.. --- / .-- --- .-. .-.. -..
 
 ## Notes
 
-This project is a lightweight CLI utility for learning, testing, and quick Morse code conversion.
+This project is a lightweight CLI utility designed for quick Morse code conversion and experimentation.
 
 ## Troubleshooting
 
 - If Python cannot run the script, check that Python 3 is installed.
-- If the tool shows unsupported characters, keep in mind that some symbols are not mapped in the default dictionary.
+- If the tool shows unsupported characters, remember that some symbols are not mapped in the default dictionary.
 - If the output file is missing, make sure you selected the save option from the menu.
